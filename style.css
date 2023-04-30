@@ -1,0 +1,11 @@
+table {color:green;font-weight: bold}
+[colspan="2"] {
+	color:orange
+	}
+.hello{color:green}
+#misha {color:blue}
+
+.list > li {color:blue}
+.lol {font-weight: bold}
+.lol-kek {color:red}
+.lol-mek {color:blue}
